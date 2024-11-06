@@ -1,0 +1,422 @@
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180007.wav|25|sil r an4 #1 d a4 #0 j ia1 #1 k uai4 #0 d ian3 #1 x ia4 #0 l ai2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180008.wav|25|sil s ou1 #0 y i1 #1 s ou1 #2 g uan4 #0 x ing4 #1 y van2 #0 l iang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180009.wav|25|sil y i1 #0 s an1 #0 j iou3 #0 l ing2 #3 ， s an1 #0 s an1 #1 s an1 #3 ， q i1 #1 l iou4 #1 l ing2 #0 b a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180010.wav|25|sil y ong3 #0 l e4 #1 d ian4 #0 q i4 #3 ， w u2 #0 j iao2 #0 c ang3 #3 ， w an4 #0 d a2 #1 g uang3 #0 c ang3 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180011.wav|25|sil j iou3 #0 j v2 #1 m o4 #2 e4 #0 ch u1 #0 j v2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180012.wav|25|sil w o2 #1 z en3 #0 m e5 #0 h uei4 #1 h e2 #0 n i2 #1 c e3 #0 s ang4 #1 g uan1 #0 x i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180013.wav|25|sil l i4 #0 y ang2 #0 d e5 #1 x iang1 #0 zh en4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180015.wav|25|sil w o2 #0 y i3 #0 h ou4 #1 y e3 #0 h uei4 #1 q v4 #0 b a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180016.wav|25|sil y v4 #0 f o2 #0 s ii4 #3 ， s u4 #0 z ai1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180017.wav|25|sil d e5 #1 ai4 #0 q ing2 #1 sh iii4 #1 f eng1 #0 k uang2 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180018.wav|25|sil w u3 #0 x ia2 #1 j in1 #0 y ong1 #1 x iao3 #0 sh uo1 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180019.wav|25|sil sh iii2 #0 p in3 #1 m ian4 #0 sh iii2 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180020.wav|25|sil t a1 #0 m en5 #1 m ei2 #0 y ou2 #1 n i3 #0 x in2 #1 b u4 #0 x in2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180021.wav|25|sil s ou1 #0 y i5 #0 s ou1 #3 ， g u3 #0 l ong2 #1 q vn2 #0 x ia2 #0 zh uan4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180022.wav|25|sil w o3 #1 x i1 #0 w ang4 #1 n i3 #1 n eng2 #0 y ou3 #1 y i2 #0 c ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180023.wav|25|sil m in3 #0 zh eng4 #0 h ao4 #1 zh ao4 #0 p ian1 #0 er2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180024.wav|25|sil w o3 #0 d e5 #1 y i2 #0 g e4 #1 q in1 #0 q i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180025.wav|25|sil zh u3 #0 y ao4 #1 y van2 #0 y v2 #2 j in4 #0 n ian2 #0 n ai2 #3 ， x in1 #0 n eng2 #0 y van2 #1 h ang2 #0 y e4 #0 d e5 #3 ， b u4 #0 j ing3 #0 q i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180026.wav|25|sil l iou3 #0 z ong1 #0 y van2 #0 d e5 #1 w en2 #0 zh ang1 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180027.wav|25|sil ch ang2 #0 ch uen1 #0 sh iii4 #0 d e5 #1 y ou4 #0 er2 #0 y van2 #3 ， y ou2 #1 sh en2 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180028.wav|25|sil y in2 #0 h e2 #0 x i4 #3 ， m an4 #0 y ou2 #1 z ii3 #0 n an2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180029.wav|25|sil ch eng4 #1 g u3 #0 p iao4 #1 h uei2 #0 g ou4 #1 j i4 #0 h ua4 #3 ， sh iii4 #0 y i3 #1 j ian2 #0 sh ao3 #1 d uei4 #1 g ao1 #0 k e1 #0 j i4 #0 d e5 #1 t ou2 #0 zh iii1 #1 w ei2 #1 d ai4 #0 j ia4 #0 d e5 #1 x ing2 #0 w ei2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180032.wav|25|sil z ai4 #1 sh en4 #0 d an4 #0 j ie2 #1 s ang4 #0 y ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180034.wav|25|sil s ou1 #1 y i4 #0 s ou1 #3 ， j ia1 #1 z ai4 #0 x in1 #0 sh ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180035.wav|25|sil d uei4 #1 h ang2 #0 y e4 #1 j ian1 #0 g uan2 #1 t iao3 #0 z an4 #1 b u4 #0 x iao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180036.wav|25|sil k ang4 #1 b ing4 #0 d u2 #0 s u4 #1 m ei2 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180037.wav|25|sil k e4 #0 l in2 #1 d ao4 #0 d i3 #1 z ai4 #1 g an4 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180038.wav|25|sil j v4 #1 zh ong1 #0 g uo2 #1 zh iii1 #0 sh eng1 #1 y ang1 #3 ， g uang3 #3 ， x in1 #0 w en2 #1 b ao4 #0 d ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180040.wav|25|sil y i1 #0 s an1 #0 s ii4 #1 y i1 #3 ， er4 #1 b a1 #0 l iou4 #1 l iou4 #1 q i1 #1 s an1 #0 q i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180042.wav|25|sil g uan2 #0 l i3 #0 c eng2 #1 c ii2 #0 g u3 #1 h e2 #1 y van2 #0 g ong1 #1 ch ao2 #0 g u3 #1 y e3 #0 sh iii4 #1 h e2 #0 f a3 #0 d e5 #1 x ing2 #0 w ei2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180043.wav|25|sil s ou1 #0 y i4 #0 s ou1 #3 ， w o3 #0 sh iii4 #1 n i2 #1 m ian3 #2 f ei4 #0 d e5 #2 k uai4 #0 l e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180044.wav|25|sil h an4 #0 zh ong1 #0 d e5 #1 x ve2 #0 x iao4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180045.wav|25|sil s ou1 #0 y i1 #0 s ou1 #1 d ong1 #0 t ian1 #0 d e5 #0 sh u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180046.wav|25|sil q ing1 #0 y van2 #1 d i4 #0 m ing2 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180047.wav|25|sil s ou1 #0 y i4 #0 s ou1 #3 ， y ou2 #0 z ii3 #0 y in2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180048.wav|25|sil er2 #1 b i2 #0 k a3 #0 q iou1 #1 sh iii4 #1 r iii4 #0 b en3 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180049.wav|25|sil sh iii2 #0 q ian1 #0 x ian4 #0 d e5 #1 x iang1 #0 zh en4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180050.wav|25|sil d an4 #1 j ie1 #0 s en5 #1 m ei2 #0 y ou3 #1 zh eng4 #0 j v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180051.wav|25|sil t a1 #1 ch ang2 #0 ch ang2 #1 s ong4 #0 x ie1 #1 x iao2 #0 l i3 #0 w u4 #1 g ei3 #1 l in2 #0 j v1 #0 d e5 #1 h ai2 #0 z ii5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180052.wav|25|sil w o3 #0 m en5 #1 j iang1 #0 b a3 #1 zh e4 #0 f ang2 #0 z ii3 #1 zh u1 #0 g ei2 #1 n i3 #1 y i4 #0 n ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180053.wav|25|sil l iou2 #0 sh en2 #1 m en2 #0 k uang1 #3 ， l iou2 #0 sh en2 #1 l iou2 #0 sh en2 #1 m en2 #0 k uang1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180054.wav|25|sil k a1 #0 f ei1 #1 sh iii4 #1 y i4 #0 zh ong3 #1 x iang1 #0 w ei4 #1 n ong2 #0 y v4 #0 d e5 #1 y in3 #0 l iao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180055.wav|25|sil b a2 #0 n i3 #0 d e5 #0 q iang1 #1 f ang1 #0 z ai4 #2 d i4 #0 sh ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180056.wav|25|sil w o3 #0 sh iii4 #1 c ong2 #1 x in1 #0 w en2 #0 sh ang4 #1 zh iii1 #0 d ao4 #1 n i3 #0 h e2 #1 w ei2 #0 k e4 #0 d uo1 #3 ， d ing4 #0 h uen1 #0 l e5 #0 n e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180057.wav|25|sil b a1 #0 r en2 #1 w ei2 #1 s ong1 #0 c ii2 #1 s an1 #0 zh ong1 #3 ， g ao1 #1 e4 #1 x ve2 #0 sh eng1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180058.wav|25|sil m u4 #0 b iao1 #1 d ian4 #0 n ao3 #1 w ei4 #0 zh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180059.wav|25|sil w u3 #0 n ian2 #0 n ei4 #1 zh iii4 #0 n eng2 #1 d ian4 #0 n ao3 #1 j iang1 #1 j v4 #0 b ei4 #1 r en2 #0 n ei4 #1 w ei4 #0 j ve2 #1 d eng3 #1 w u2 #0 zh ong3 #1 g an3 #0 j ve2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180060.wav|25|sil x iou1 #0 d ing4 #0 b an2 #1 y e3 #1 j ia1 #0 r u4 #0 l e5 #1 y i4 #0 x ie1 #1 c uo4 #0 s ii1 #1 l ai2 #1 b ao3 #0 zh ang4 #1 j i1 #0 j in1 #1 ch iii2 #0 y ou3 #0 r en2 #0 d e5 #1 l i4 #0 y i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180061.wav|25|sil z ii3 #0 y ao4 #1 l i2 #0 k ai1 #1 j iou4 #0 h ao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180062.wav|25|sil l iou4 #0 sh iii2 #0 w u3 #1 q ian1 #0 k e4 #1 x in1 #0 y in2 #1 w ang2 #0 z ii1 #0 g e2 #0 zh an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180063.wav|25|sil s uo2 #0 y i2 #1 w o3 #0 m en1 #0 d e5 #1 x iang2 #0 f a3 #3 ， j iou4 #0 sh iii4 #1 y ing2 #0 x iang3 #1 r en2 #0 l ei4 #0 d i5 #1 q ing2 #0 g an3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180064.wav|25|sil q i4 #0 d ong4 #1 d ian4 #0 d ong4 #0 f a2 #0 m en2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180065.wav|25|sil zh eng4 #0 zh ou1 #0 sh iii4 #2 zh eng4 #0 zh ou1 #0 d e5 #1 d a4 #0 x ve2 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180066.wav|25|sil q ve4 #0 d ing4 #0 zh uang1 #1 h eng2 #0 s ao3 #1 j iang1 #0 sh iii1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180067.wav|25|sil f ang2 #0 q i3 #1 z ai4 #1 x iang1 #0 g ang3 #1 sh ang4 #0 sh iii4 #1 y i3 #1 b u2 #0 j v4 #0 y ou3 #1 m ing2 #0 x ian3 #1 y ou1 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180068.wav|25|sil y i1 #0 d i2 #0 s ii1 #1 w an2 #0 q van2 #1 w u4 #0 h uei4 #0 l e5 #1 w o3 #0 d e5 #1 y i4 #0 s ii1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180069.wav|25|sil w o3 #1 d ao4 #0 d i3 #2 y ing1 #0 g ai1 #1 zh uen3 #0 b ei4 #1 g an4 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180070.wav|25|sil y i1 #0 s an1 #0 s ii4 #3 ， y i1 #0 w u3 #3 ， j iou3 #0 s ii4 #1 l iou4 #3 ， l iou4 #1 j iou3 #0 l ing2 #0 b a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180071.wav|25|sil y i2 #0 w ei4 #3 ， g e4 #0 r en2 #1 t ou2 #0 z ii1 #0 zh e2 #1 z ii3 #0 ch u1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180072.wav|25|sil h ai2 #0 sh iii4 #1 z ii4 #0 j i1 #1 z an3 #0 j i1 #0 h ao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180073.wav|25|sil d an4 #0 sh iii4 #1 w o3 #1 m ei2 #0 y ou3 #1 y i2 #0 g e4 #1 h ao3 #2 an4 #0 z ii3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180075.wav|25|sil a1 #0 l a1 #1 s ii1 #0 j ia1 #0 d e5 #1 d i4 #0 m ing2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180076.wav|25|sil q ian2 #1 s ii2 #0 w u3 #1 m ing2 #0 d e5 #1 zh ong3 #0 c ai2 #0 f u4 #1 b i3 #1 q v4 #0 n ian2 #2 f an1 #0 l e5 #1 l iang3 #0 b ei4 #0 d uo1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180078.wav|25|sil ch eng2 #0 w ei2 #1 c ai2 #0 f u4 #1 z eng1 #0 zh ang3 #1 z uei4 #0 k uai4 #0 d e5 #1 h ang2 #0 y e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180079.wav|25|sil h ai2 #0 d i3 #1 l ao1 #1 h uo3 #0 g uo1 #3 ， sh ang4 #0 h ai3 #1 w u2 #0 zh ong1 #0 l u4 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180080.wav|25|sil x iang1 #0 x in4 #1 n i3 #0 n eng2 #1 t i2 #0 g ong1 #3 ， j i2 #0 y ou3 #0 y ong4 #0 d e5 #1 x ian4 #0 s uo3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180081.wav|25|sil ch eng2 #0 h ai3 #0 q v1 #0 d e5 #1 j ing2 #0 d ian3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180082.wav|25|sil w o3 #0 m en5 #1 h uo4 #0 x v3 #1 b u2 #0 sh iii4 #1 t ian1 #0 sh iii3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180083.wav|25|sil d uo1 #0 l ei2 #0 d e5 #1 j ing1 #0 y an4 #1 g ao4 #0 s u4 #0 w o3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180084.wav|25|sil j iou4 #0 sh iii4 #1 j ve2 #0 d e5 #1 n i3 #1 d an3 #0 z ii5 #1 t ing3 #0 d a4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180085.wav|25|sil k e3 #0 n eng2 #1 h uei4 #0 z ai4 #1 sh iii2 #0 j i4 #0 d e5 #1 zh iii2 #0 x ing2 #1 g uo4 #0 ch eng2 #0 zh ong1 #1 ch u1 #0 x ian4 #1 x v3 #0 d uo1 #1 w en4 #0 t i2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180086.wav|25|sil j iang3 #0 y i4 #1 ch u1 #0 y an3 #0 d e5 #1 d ian4 #0 sh iii4 #0 j v4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180088.wav|25|sil s ou1 #0 y i4 #0 s ou1 #2 s u1 #1 s an1 #1 q i3 #2 j ie4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180089.wav|25|sil y i1 #0 s an1 #0 s ii4 #1 s ii4 #1 j iou3 #3 ， l ing2 #1 l iou4 #0 l ing2 #3 ， j iou2 #1 w u3 #0 b a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180090.wav|25|sil r u2 #0 g uo3 #1 n i3 #0 z ai4 #1 j ia3 #0 b an4 #1 h e2 #0 s ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180092.wav|25|sil b ian4 #0 w en1 #1 w en1 #0 d u4 #1 sh e4 #0 w ei2 #1 l ing2 #0 x ia4 #1 s ii4 #0 d u4 #0 d ang3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180093.wav|25|sil b u2 #0 x in4 #1 n i3 #0 w en4 #3 ， h uang2 #0 z ii3 #0 j iao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180094.wav|25|sil s ou1 #0 y i4 #0 s ou1 #3 ， y ve4 #0 l iang4 #1 r e3 #0 d e5 #0 h uo4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180095.wav|25|sil j in1 #0 q ian2 #0 p ao4 #3 ， d a4 #0 j iou3 #0 d ian4 #3 ， y an2 #0 an1 #1 x i1 #0 l u4 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180098.wav|25|sil n i3 #1 m ei2 #1 f a3 #1 k uai4 #0 d ian3 #2 n eng2 #1 y ao4 #0 k ai1 #1 t a1 #0 m en5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180099.wav|25|sil f u2 #0 zh uang1 #1 h ang2 #0 y e4 #1 sh ang4 #1 b ang3 #0 r en2 #0 sh u4 #1 zh an4 #0 b i2 #1 w en3 #0 d ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180100.wav|25|sil t a1 #1 g ong1 #0 z uo4 #0 b i3 #1 w ei1 #0 l ian2 #1 n u3 #0 l i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180101.wav|25|sil sh iii4 #0 b o2 #1 g ong1 #0 y van2 #3 ， sh iii4 #0 b o2 #1 d a4 #0 d ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180102.wav|25|sil y ao4 #0 s ii4 #1 n i3 #1 h ao4 #0 q i2 #0 d e5 #0 h ua4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180103.wav|25|sil b a1 #0 l i2 #1 ch uen1 #0 t ian1 #3 ， p u3 #0 j ian4 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180105.wav|25|sil w an3 #0 sh an4 #1 l in2 #0 sh uei4 #1 q ian2 #3 ， g uan1 #1 h ao3 #0 m en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180106.wav|25|sil z ii4 #0 j i3 #1 y e3 #1 d an1 #0 x in1 #1 zh e4 #0 x ie1 #1 q van2 #0 n i4 #1 f ang4 #0 k ai1 #0 h ou4 #3 ， sh iii4 #0 f ou3 #0 h uei4 #1 b ei4 #1 l an4 #0 y ong4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180107.wav|25|sil m in2 #0 zh ong4 #1 h e2 #1 g uan2 #0 l i3 #2 y in2 #1 d ou1 #3 ， x i2 #0 g uan4 #0 y v2 #2 an4 #0 zh ao4 #2 q i4 #0 y ve4 #1 j ing1 #0 sh en2 #1 z uo4 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180109.wav|25|sil er4 #0 sh iii2 #0 s an1 #0 d ian3 #2 sh iii2 #0 f en1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180110.wav|25|sil zh ong1 #0 w ei4 #0 sh u4 #1 w ei2 #2 w u2 #0 d ian3 #1 l ing2 #0 l iou4 #0 b ei4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180112.wav|25|sil y i1 #0 s an1 #0 l iou4 #1 w u3 #3 ， q i1 #1 q i1 #0 w u3 #1 b a1 #0 l iou4 #1 s an1 #0 s an1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180113.wav|25|sil n i3 #0 y ao4 #1 g ei2 #0 w o3 #1 w an2 #0 zh eng3 #1 b ao4 #0 g ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180115.wav|25|sil b a3 #0 n a4 #1 j i3 #0 x iang1 #1 d ong1 #0 x i1 #1 s ong4 #0 q v4 #1 j iao4 #0 t ang2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180116.wav|25|sil y i1 #0 s an1 #0 q i1 #0 b a1 #3 ， y i2 #0 er4 #0 l ing2 #2 s an1 #0 b a1 #1 w u3 #0 y i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180117.wav|25|sil l iou4 #0 sh iii2 #0 q ian1 #0 k e4 #1 x in1 #0 r en2 #1 w ang2 #0 z ii1 #0 g e2 #0 zh an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180118.wav|25|sil s ou1 #1 y i4 #0 s ou1 #3 ， g an3 #0 w ei2 #1 t ian1 #0 x ia4 #0 x ian1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180119.wav|25|sil s ou1 #0 y i5 #0 s ou1 #2 g ei2 #0 w o3 #1 y i2 #0 g e4 #0 w en3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180120.wav|25|sil w o2 #1 zh ao3 #0 d ao4 #1 y i2 #0 g e4 #1 b ao3 #0 g uei4 #0 d e5 #1 p ian4 #0 z ii5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180122.wav|25|sil g ai1 #1 z ii1 #0 j in1 #1 g uei1 #0 m o2 #1 sh en4 #0 zh iii4 #1 ch ao1 #0 g uo4 #0 l e5 #1 g ong1 #0 s ii1 #2 j ing4 #0 l i4 #0 r uen4 #0 d e5 #1 l iang3 #2 b ei4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180123.wav|25|sil s ou1 #0 y i4 #0 s ou1 #2 t a1 #0 sh uo1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180124.wav|25|sil n i3 #1 n an2 #0 d ao4 #1 z uo4 #0 h ao2 #1 zh uen3 #0 b ei4 #0 l e5 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180125.wav|25|sil k a3 #0 r uei4 #0 n a4 #1 m ei2 #0 z an1 #0 s ang4 #1 d u2 #0 p in3 #1 z ii1 #0 l ei4 #0 d e5 #0 b a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180126.wav|25|sil s uei1 #0 r an2 #1 sh ang4 #1 b ang3 #0 r en2 #0 sh u4 #3 ， zh an4 #0 b i3 #1 x ia4 #0 j iang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180127.wav|25|sil h ua1 #0 sh eng1 #0 d e5 #1 c ai4 #0 p u3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180128.wav|25|sil n eng2 #0 h an4 #1 d ong4 #0 r en2 #0 x in1 #2 b ing4 #2 b ang3 #0 zh u4 #1 x iao2 #0 sh ou4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180129.wav|25|sil d uei4 #0 c ii3 #1 w o3 #0 m en5 #1 n eng2 #1 zh uo4 #0 x ie1 #1 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180130.wav|25|sil w o3 #0 m en5 #1 x iang4 #1 g u3 #0 d ong1 #3 ， f an3 #1 h uan2 #1 g eng4 #1 d a1 #3 ， d e5 #1 l i4 #0 y i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180131.wav|25|sil t a1 #0 d e5 #1 ch e1 #0 z ii5 #1 j iou4 #0 z ai4 #1 n a4 #0 l i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180132.wav|25|sil x i1 #0 n ing2 #0 d e5 #1 j ian4 #0 zh u2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180133.wav|25|sil s ang1 #0 k ou2 #1 y i3 #0 j ing1 #0 z ai4 #1 y v4 #0 h e2 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180135.wav|25|sil s u1 #0 b ing3 #0 t ian1 #3 ， b a4 #0 q i4 #1 q ing4 #0 z u2 #3 ， j in4 #0 j i2 #1 j ve2 #0 s ai4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180136.wav|25|sil zh e4 #0 g e4 #1 x iao3 #0 q iao4 #0 t uen2 #1 n a3 #0 l ai2 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180137.wav|25|sil b ing4 #1 x ie3 #0 d ao4 #3 ， ch uan1 #0 s ang4 #1 h uang2 #0 z ii3 #0 j iao1 #1 d an1 #0 ch e1 #0 y i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180138.wav|25|sil d ai4 #0 d ian3 #1 d an4 #0 g ao1 #1 h uo4 #0 zh e2 #1 d ian3 #0 x in1 #1 h uei2 #0 l ai2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180139.wav|25|sil t a1 #1 k ai1 #0 sh iii3 #2 ai4 #0 sh ang4 #1 sh a1 #0 r en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180140.wav|25|sil q i2 #0 zh ong1 #1 g uan1 #0 y v2 #1 zh ong1 #0 h ua2 #1 y e4 #0 w u4 #1 n ei4 #0 y ong2 #2 b iao3 #0 sh u4 #1 b i3 #0 j iao4 #1 q ing1 #0 ch u3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180142.wav|25|sil m ei2 #0 y ou3 #0 k eng1 #3 ， z en3 #0 m e5 #1 j ian4 #0 y ong3 #0 ch iii2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180143.wav|25|sil h ai2 #0 sh uo1 #1 q i2 #0 sh iii2 #1 z e2 #0 r en4 #1 z ai4 #0 w o3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180144.wav|25|sil t a1 #1 y i3 #0 q ian2 #1 y e3 #0 b u2 #0 sh iii4 #1 m ei2 #0 d ong4 #0 g uo4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180147.wav|25|sil w o3 #0 m en5 #1 m ei2 #0 b i4 #0 y ao4 #1 h uei2 #0 q v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180149.wav|25|sil h uang2 #1 y ou4 #1 n an2 #0 d ian4 #0 y ing3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180150.wav|25|sil sh ou1 #0 h u2 #1 y v2 #0 l e4 #0 x vn4 #3 ， sh iii2 #0 y ve4 #1 e4 #0 sh iii2 #0 b a1 #0 r iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180151.wav|25|sil j ia1 #0 r en2 #1 zh iii3 #0 n eng2 #0 y ong4 #2 t u3 #0 f ang1 #3 ， y i1 #0 zh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180152.wav|25|sil s ou1 #0 y i1 #0 s ou1 #3 ， g ong1 #0 x i3 #0 y a5 #1 g ong1 #0 x i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180153.wav|25|sil n v3 #0 h ai2 #0 m en5 #1 zh iii1 #0 d ao4 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180155.wav|25|sil sh en1 #0 zh en4 #1 l uo2 #0 h u2 #0 d e5 #1 j iou3 #0 d ian4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180156.wav|25|sil s ou1 #0 y i4 #0 s ou1 #0 w o2 #1 x iang3 #0 y ao4 #1 zh e4 #0 y ang4 #1 sh eng1 #0 h uo2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180157.wav|25|sil y e4 #0 j ia3 #0 k e1 #1 k uen1 #0 ch ong2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180158.wav|25|sil sh iii2 #1 w o3 #0 m en5 #0 d e5 #1 y e4 #0 w u4 #1 f an4 #0 w ei2 #1 l eng2 #0 x iang4 #1 g ao1 #0 j ia4 #0 zh iii2 #1 f u2 #0 w u4 #1 zh uan3 #0 y i2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180162.wav|25|sil k e2 #0 y i3 #1 sh iii4 #0 y ing4 #1 h ei1 #0 an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180163.wav|25|sil b a1 #0 r en2 #1 j v4 #0 h uei4 #1 h ou4 #3 ， x ia4 #0 h e2 #1 y ou2 #0 y ong3 #2 y i4 #0 r en2 #1 n i4 #0 sh uei3 #1 s ii4 #0 m ing2 #1 t ong2 #0 b an4 #3 ， sh iii1 #0 j iou4 #3 ， z ao1 #3 ， b u2 #1 c e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180164.wav|25|sil w u3 #0 sh iii2 #0 l iou4 #1 q ian1 #0 k e4 #1 l v2 #0 z ii2 #1 b i3 #0 s ai4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180165.wav|25|sil j ie2 #0 sh en1 #1 z en3 #0 m e5 #0 sh uo1 #1 w o3 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180167.wav|25|sil y ang4 #0 w o3 #1 k ai1 #0 ch e1 #1 q v4 #1 zh ao3 #0 t a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180168.wav|25|sil b a1 #0 g e4 #0 y ve4 #1 l v3 #0 y ing1 #3 ， d iao4 #0 h uo3 #0 k eng1 #1 k ao4 #0 ch iii1 #1 zh iii3 #0 t ong4 #0 y ao4 #3 ， h uo2 #0 m ing4 #3 ， j ia1 #0 r en2 #1 ch eng1 #1 m ei2 #0 q ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180169.wav|25|sil n a4 #1 y i4 #0 sh iii2 #1 z ii1 #0 j ian1 #3 ， w o3 #1 sh iii2 #0 z ai4 #1 c ou4 #0 b u4 #0 ch u1 #1 sh iii2 #0 w an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180170.wav|25|sil q ve4 #1 c uen2 #0 z ai4 #1 d uei4 #1 j i1 #0 j in1 #1 ch iii2 #0 y ou3 #0 r en2 #3 ， zh ong1 #0 x iao3 #1 t ou2 #0 z ii1 #0 zh e3 #1 l i4 #0 y i4 #3 ， k ao3 #0 l v4 #3 ， b u4 #0 z u2 #0 d e5 #1 q ing2 #0 k uang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180171.wav|25|sil b u4 #0 g uan3 #1 f a1 #0 sh eng1 #3 ， r en4 #0 h e2 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180172.wav|25|sil b u2 #0 g uo4 #1 w o3 #1 h ai2 #0 sh iii4 #1 j ian1 #0 x in4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180173.wav|25|sil g ong1 #0 s ii1 #1 m ei3 #0 b an4 #0 n ian2 #1 z u3 #0 z ii1 #2 y i2 #1 c ii4 #1 j v4 #0 h uei4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180175.wav|25|sil l a1 #0 d ing1 #1 m ei3 #0 zh ou1 #0 d e5 #1 d i4 #0 m ing2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180176.wav|25|sil s ou1 #0 y i4 #0 s ou1 #2 w o3 #0 m en5 #0 d e5 #1 m ing2 #0 t ian1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180177.wav|25|sil w o3 #1 h ai2 #0 y ou2 #1 h ao3 #0 x iao1 #0 x i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180178.wav|25|sil j iou4 #0 x iang4 #1 l u3 #0 k a1 #0 s ii1 #1 sh uo1 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180180.wav|25|sil h ao3 #0 d uo1 #0 r en2 #1 zh uei1 #0 q iou2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180181.wav|25|sil n a4 #1 k en3 #0 d ing4 #1 h uei4 #0 sh iii4 #1 z ai4 #1 b u4 #0 j iou3 #0 d e5 #1 j iang1 #0 l ai2 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180182.wav|25|sil z ii4 #0 x in4 #1 sh iii4 #1 z ou3 #0 x iang4 #1 ch eng2 #0 g ong1 #0 d e5 #1 d i4 #0 y i2 #0 b u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180183.wav|25|sil s uei1 #0 r an2 #3 ， j in4 #0 l ai2 #1 sh ou4 #1 d a4 #0 p en2 #3 ， b ao4 #0 d ie1 #2 y ing2 #3 ， x iang3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180185.wav|25|sil s ou1 #0 y i5 #0 s ou1 #2 q ian1 #0 q iou1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180186.wav|25|sil c ai2 #0 j in1 #0 d e5 #1 z a2 #0 zh iii4 #3 ， y ou3 #0 sh en2 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180187.wav|25|sil j i1 #0 x i1 #0 sh iii4 #0 d e5 #1 j ing2 #0 d ian2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180188.wav|25|sil d i4 #0 ch an2 #1 b an3 #0 k uai4 #1 zh eng2 #1 t i1 #1 z ou3 #0 q iang2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180190.wav|25|sil l an2 #0 q iou2 #1 y vn4 #0 d ong4 #0 y van2 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180192.wav|25|sil ch eng2 #0 d u1 #0 sh iii4 #0 d e5 #1 g ong1 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180193.wav|25|sil ch eng2 #0 h uang2 #0 m iao4 #3 ， d i4 #0 y i2 #1 g ou4 #0 w u4 #3 ， zh ong1 #0 x in1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180194.wav|25|sil b a1 #0 sh iii4 #1 w en3 #0 b u4 #1 t uei1 #0 j in4 #3 ， zh ai4 #0 j van4 #1 sh iii4 #0 ch ang3 #1 d uei4 #0 w ai4 #1 k ai1 #1 f ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180195.wav|25|sil y i1 #0 sh an1 #1 b ang4 #0 sh uei3 #1 j ian4 #0 zh u2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180196.wav|25|sil s ou1 #0 y i4 #0 s ou1 #1 x ing4 #0 h ao3 #1 y ou2 #0 n i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180197.wav|25|sil n an2 #0 m ei3 #0 zh ou1 #0 d e5 #1 zh iii2 #0 w u4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180199.wav|25|sil zh ong4 #0 ch eng2 #1 sh iii4 #0 j ie4 #1 sh ang1 #0 ch eng2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180200.wav|25|sil x ve2 #0 x iao4 #1 t u2 #0 sh u1 #3 ， g uan2 #0 l i3 #0 y van2 #1 l ao3 #0 sh iii1 #3 ， z uei4 #0 ai4 #1 t e4 #0 y ou1 #0 sh eng1 #0 d e5 #1 x iao3 #0 q van1 #0 z ii5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180202.wav|25|sil h u4 #0 f u1 #0 p in2 #1 q i3 #0 y e4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180203.wav|25|sil y i1 #0 s an1 #0 y i1 #0 j iou3 #3 ， w u3 #1 s an1 #1 s ii4 #0 q i1 #1 s an1 #2 e4 #0 l ing2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180204.wav|25|sil z ai4 #1 zh ong1 #0 g uo2 #1 n ei4 #0 d i4 #1 y i2 #0 x ia4 #0 z ii5 #1 f ang4 #0 k ai1 #0 l e5 #1 zh e4 #3 ， zh u1 #0 d uo1 #1 q van2 #0 l i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180205.wav|25|sil sh ei2 #0 sh uo1 #1 w o3 #0 z ai4 #1 k ai1 #0 w an2 #0 x iao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180206.wav|25|sil y i1 #0 y ao4 #1 h ang2 #0 y e4 #1 r en2 #0 sh u4 #2 z an4 #0 b i2 #1 w en3 #0 d ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180207.wav|25|sil zh e4 #0 s ii4 #1 d a4 #0 x ve2 #0 l i3 #1 z uei4 #1 g uan1 #0 x in1 #0 d e5 #1 sh iii4 #0 q ing2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180208.wav|25|sil e2 #0 q ian2 #1 s an1 #0 sh iii2 #0 m ing2 #1 f u2 #0 zh uang1 #1 f u4 #0 h ao2 #0 d e5 #1 z ong3 #1 c ai2 #0 f u4 #1 z eng1 #0 zh ang3 #1 j in4 #3 ， b ai3 #0 f en1 #0 zh iii1 #1 q i1 #0 sh iii2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180209.wav|25|sil h u2 #0 l u2 #1 d ao3 #0 sh iii4 #0 d e5 #1 q i3 #0 y e4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180210.wav|25|sil h en3 #0 d uo1 #1 q i3 #0 y e4 #0 j ia1 #1 h e2 #2 er4 #0 d ai4 #1 j in4 #0 r u4 #2 t ou2 #0 z ii1 #1 l ing3 #0 y v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180211.wav|25|sil ai4 #0 q ing2 #0 y v3 #0 d e5 #1 y an3 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180212.wav|25|sil zh e4 #1 sh iii4 #0 j ie4 #0 d e5 #1 q i2 #0 t a1 #1 d i4 #0 f ang1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180213.wav|25|sil j in1 #0 w an3 #1 n i3 #0 n eng2 #1 z uo4 #0 d ao4 #0 d e5 #1 w o3 #0 m en1 #0 l iang3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180214.wav|25|sil y i1 #0 s an1 #1 er4 #0 j iou3 #1 l iou4 #3 ， q i1 #0 j iou3 #2 er4 #0 l ing2 #2 y i1 #0 w u3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180217.wav|25|sil t a1 #1 l i4 #0 y an2 #1 j ian1 #0 ch iii2 #2 zh e4 #0 sh iii4 #0 sh iii2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180218.wav|25|sil y i1 #0 s an1 #0 l iou4 #1 b a1 #3 ， y i1 #1 w u3 #2 q i1 #0 s an1 #3 ， b a1 #0 q i1 #0 s ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180219.wav|25|sil y i4 #0 w ei4 #0 zh e5 #3 ， l ao3 #0 n iou2 #0 z ai3 #1 zh e4 #0 y i2 #0 c ii4 #1 y ou4 #0 y ou3 #0 l e5 #1 zh eng1 #0 d uo2 #3 ， ao4 #0 s ii1 #0 k a3 #0 d e5 #1 y e3 #0 x in1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180220.wav|25|sil m ei3 #0 c ii4 #1 y ou3 #0 r en2 #1 d eng1 #0 l u4 #1 y i2 #0 g e4 #1 zh an4 #0 d ian3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180221.wav|25|sil z ii2 #0 j ia3 #0 d e5 #1 j i2 #0 b ing4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180222.wav|25|sil b u3 #1 zh u4 #0 j in1 #2 b ang1 #0 zh u4 #1 zh iii1 #1 f u4 #2 l v3 #0 x ing2 #1 f ei4 #0 y ong4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180223.wav|25|sil l iou4 #0 sh iii2 #0 w u3 #1 q ian1 #0 k e4 #1 x in1 #0 r en2 #0 w ang2 #1 t iao3 #0 zh an4 #0 s ai4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180225.wav|25|sil b ie2 #1 w ang4 #0 l e5 #1 g en1 #3 ， b an4 #0 g ong1 #0 sh iii4 #0 d e5 #1 r en2 #0 sh uo1 #1 n i3 #0 y ao4 #1 z ou3 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180226.wav|25|sil zh an4 #0 sh iii4 #1 x iao3 #0 y ou2 #0 x i4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180228.wav|25|sil a1 #0 l i3 #1 y ing3 #0 y e4 #3 ， ch ang2 #0 c en2 #1 y in3 #0 sh iii4 #1 d eng3 #1 g ong1 #0 s ii1 #0 d e5 #1 ch eng2 #0 g ong1 #1 sh ang4 #0 sh iii4 #1 j iou4 #0 sh iii4 #1 q i2 #0 zh ong1 #0 d e5 #1 d ai4 #0 b iao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180229.wav|25|sil y i2 #0 w ei4 #1 j v4 #0 y ou2 #1 h ai3 #0 w ai4 #1 g ong1 #0 z uo4 #1 j ing1 #0 y an4 #0 d e5 #3 ， z ii1 #0 g uan3 #0 y e4 #1 r en2 #0 sh iii4 #1 b iao3 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180230.wav|25|sil j i4 #0 h ua4 #1 b u2 #0 g uo4 #0 sh iii4 #1 t i2 #0 q ian2 #0 l e5 #1 y i4 #0 d ian3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180231.wav|25|sil x i1 #0 t u2 #1 b an3 #0 k uai4 #1 y e3 #0 z ai4 #2 d i1 #0 w ei4 #1 p ai2 #0 h uai2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180232.wav|25|sil t ang1 #0 m u3 #0 r uei4 #0 d ou4 #0 d e5 #1 r iii4 #0 j i4 #1 b u2 #0 j ian4 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180233.wav|25|sil s uo2 #0 y i3 #1 j ie2 #0 s en1 #1 d ai4 #0 w o3 #1 l ai2 #0 d ao4 #1 zh e4 #0 l i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180234.wav|25|sil y i1 #0 s an1 #0 j iou3 #3 ， w u3 #0 b a1 #1 l iou4 #3 ， er4 #1 s an1 #1 j iou2 #1 j iou3 #0 b a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180235.wav|25|sil h an2 #0 z ii4 #0 m in3 #0 d e5 #1 d ian4 #0 s ii4 #0 j v4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180236.wav|25|sil w o2 #1 y ou3 #0 g e4 #1 x iao3 #0 sh iii2 #0 y an4 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180238.wav|25|sil r iii4 #0 b en3 #0 d e5 #1 d a4 #0 x ve2 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180239.wav|25|sil r u2 #0 g uo3 #1 n a4 #0 g e4 #1 l ian2 #0 l uo4 #0 r en2 #1 k e2 #0 y i3 #1 b ang1 #0 d ao4 #1 w o3 #0 m en5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180240.wav|25|sil f u2 #0 k e4 #0 s ii1 #1 d ian4 #0 y ing3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180241.wav|25|sil j in1 #0 r ong2 #1 t ou2 #0 z ii1 #1 l ing3 #0 y v4 #3 ， z uo4 #1 f eng1 #0 x ian3 #1 t ou2 #0 z ii1 #1 h e2 #1 s ii1 #0 m u4 #0 d e5 #1 c ai2 #0 f u4 #1 t ou4 #0 m ing2 #0 d u4 #1 x iang1 #0 d uei4 #3 ， j iao4 #0 d i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180242.wav|25|sil x i1 #0 an1 #0 sh iii4 #0 d e5 #1 g ong1 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180243.wav|25|sil t a1 #0 sh uo1 #1 l ian2 #0 y e4 #1 g an3 #0 l u4 #1 t ong1 #0 zh iii1 #1 d ang1 #0 d i4 #1 m in2 #0 b ing1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180244.wav|25|sil x iang1 #0 x i1 #1 j ian4 #0 zh u2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180245.wav|25|sil z ai4 #1 t ong2 #0 x ve2 #1 j v4 #0 h uei4 #0 h ou4 #1 q ian2 #0 w ang3 #1 s ong1 #0 c ii2 #0 h e2 #1 y ou2 #0 y ong3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180246.wav|25|sil f u2 #0 h u2 #0 sh iii4 #0 d e5 #1 j ian4 #0 zh u2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180247.wav|25|sil j iou3 #0 l iou4 #1 s ang4 #1 h ai3 #0 t an1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180249.wav|25|sil m ei2 #0 y ou3 #1 j v4 #0 t i3 #1 sh u4 #0 j v4 #2 z ii3 #0 sh uo1 #1 y i2 #0 g e4 #1 z ong3 #0 sh u4 #1 sh iii4 #1 y van2 #0 y van3 #1 b u2 #0 g ou4 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180250.wav|25|sil s ong1 #0 ch iii2 #0 sh iii4 #3 ， s ong1 #0 ch iii2 #0 h e2 #3 ， l ao3 #0 ch eng2 #1 h eng2 #3 ， t i2 #0 b eng4 #0 zh an4 #3 ， f u4 #0 j in4 #1 b a1 #0 m ing2 #1 g ao1 #0 zh ong1 #1 sh eng1 #3 ， x ia4 #0 h e2 #1 y ou2 #0 y ong3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180253.wav|25|sil s ou1 #0 y i4 #0 s ou1 #2 m ei3 #0 l i4 #0 d e5 #3 ， m u4 #0 y ang2 #1 g u1 #0 l iang2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180254.wav|25|sil c ong2 #0 w o3 #1 s ong1 #0 k ou2 #1 q v3 #0 ch u1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180255.wav|25|sil q i4 #0 y ve1 #1 sh e4 #0 h uei4 #1 y i3 #3 ， c uei1 #0 y v2 #1 ch eng2 #0 sh ou2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180256.wav|25|sil b u2 #0 h uei4 #1 s ii3 #0 z ai4 #0 n i2 #1 sh ou3 #0 s ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180257.wav|25|sil y i1 #0 s an1 #0 w u3 #1 l iou4 #0 l iou4 #3 ， y i1 #1 l ing2 #0 l ing2 #1 l ing2 #2 q i1 #0 l ing2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180258.wav|25|sil n ing2 #0 h ao4 #0 d e5 #1 d ian4 #0 y ing2 #2 y ou3 #0 sh en2 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180259.wav|25|sil ch ang2 #0 sh a1 #0 d e5 #1 c uen1 #0 zh uang1 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180260.wav|25|sil w en1 #0 l ing3 #0 d e5 #1 x ve2 #0 x iao4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180261.wav|25|sil er2 #1 b o1 #0 l an2 #1 j iao4 #0 d a4 #0 d e5 #1 g uo2 #0 n ei4 #1 sh iii4 #0 ch ang3 #1 h uan3 #0 ch ong1 #0 l e5 #1 zh e4 #0 zh ong3 #1 x v1 #0 q iou2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180262.wav|25|sil g u3 #0 h an4 #0 y v3 #3 ， sh iii1 #0 c ii2 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180263.wav|25|sil z en4 #2 d a4 #0 d a4 #1 m u2 #0 z ii3 #1 g uang2 #0 c ang3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180264.wav|25|sil s an2 #0 x i1 #1 d ian4 #0 s ii4 #0 j v4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180265.wav|25|sil s ou1 #0 y i5 #0 s ou1 #3 ， n i3 #0 sh iii4 #1 r u2 #0 c ii3 #1 n an2 #0 y i3 #1 w ang4 #0 j i4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180266.wav|25|sil s ou1 #0 y i5 #0 s ou1 #2 y i2 #0 l u4 #1 j ing1 #0 x i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180267.wav|25|sil y i1 #0 s an1 #0 s ii4 #1 j iou3 #3 ， s ii4 #1 s an1 #1 q i1 #0 q i1 #1 l iou4 #0 l ing2 #0 s ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180268.wav|25|sil w ei4 #1 z ii4 #0 j i3 #0 d e5 #1 x in4 #0 y ang2 #2 t ing3 #0 sh en1 #1 er2 #0 ch u1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180270.wav|25|sil z ai4 #1 h u4 #0 l ian2 #0 w ang3 #0 d e5 #1 g ai4 #0 n ian4 #0 x ia4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180271.wav|25|sil y i1 #0 s an1 #0 w u3 #1 y i1 #3 ， l ing2 #1 er4 #0 j iou3 #3 ， y i1 #0 j iou3 #1 w u3 #2 e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180273.wav|25|sil m ai4 #0 d ang1 #0 l ao2 #3 ， r iii4 #0 y ve4 #0 g uang1 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180274.wav|25|sil y i1 #0 s an1 #0 q i1 #1 e4 #0 b a1 #3 ， e4 #0 w u3 #1 l iou4 #3 ， e4 #1 q i1 #0 j iou3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180276.wav|25|sil f ei1 #0 j i1 #1 zh uang4 #0 z ai4 #1 sh an1 #0 b o1 #3 ， zh uei4 #0 h uei3 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180277.wav|25|sil w o3 #0 h uei4 #1 w an4 #0 f en1 #1 j in3 #0 sh en4 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180278.wav|25|sil b u2 #0 y ao4 #0 w ei4 #1 w u2 #0 g uan1 #0 d e5 #0 sh iii4 #1 er2 #1 f an2 #0 n ao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180279.wav|25|sil h ua1 #0 zh u2 #1 zh iii2 #0 w u4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180280.wav|25|sil n i3 #1 zh iii1 #0 d ao4 #1 d a4 #0 j ia1 #1 d ou1 #0 sh iii4 #1 z en3 #0 m e5 #1 sh uo1 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180281.wav|25|sil h a1 #0 h a5 #0 h a5 #3 ， n in2 #1 h ao3 #0 d ou4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180282.wav|25|sil zh e4 #0 sh iii4 #1 k e1 #0 l in2 #1 j i4 #0 n ian4 #1 k e1 #0 l in2 #0 m en5 #0 d e5 #1 f ang1 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180283.wav|25|sil w o3 #0 m en5 #1 j i4 #0 x v4 #1 y i2 #2 d ong4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180284.wav|25|sil s ou1 #0 y i5 #0 s ou1 #3 ， t uo4 #0 t ai1 #1 h uan4 #0 g u3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180285.wav|25|sil zh e4 #0 c eng2 #0 sh iii4 #0 w o3 #1 f u4 #0 q in1 #1 m ei3 #0 t ian1 #1 z ao3 #0 sh ang4 #0 q v4 #1 g ong1 #0 z uo4 #0 q ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180286.wav|25|sil h uei2 #0 q v4 #1 t ou1 #0 x i2 #1 t a1 #1 y i2 #0 x ia4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180287.wav|25|sil q i2 #0 sh iii2 #1 x ian4 #0 z ai4 #3 ， zh iii3 #0 y ao4 #1 y i2 #0 b u4 #1 zh iii4 #0 n eng2 #1 sh ou3 #0 j i1 #1 z ai4 #0 sh ou3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180288.wav|25|sil w o3 #0 j iou4 #1 b ang1 #0 n i3 #1 t ao2 #0 m ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180290.wav|25|sil b i3 #0 s ai4 #1 d i4 #0 d ian3 #2 zh ong1 #0 g uo2 #1 g uang3 #0 zh ou1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180291.wav|25|sil d ong1 #0 f ang1 #1 m ing2 #0 zh u1 #2 x van2 #0 zh uan3 #1 c an1 #0 t ing1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180292.wav|25|sil h ai2 #0 sh iii4 #1 d ei3 #0 j ian2 #1 j ian3 #0 f ei2 #1 c ai2 #0 h ao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180293.wav|25|sil zh e4 #0 x ie1 #1 c uo4 #0 sh iii1 #3 ， d ao4 #0 d i3 #1 n eng2 #0 y ou3 #2 d uo1 #0 d a4 #0 d e5 #1 x iao4 #0 l v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180294.wav|25|sil t a1 #0 m en5 #1 x iang3 #0 y ao4 #1 zh iii1 #0 d ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180295.wav|25|sil d a2 #0 g ei3 #1 y an4 #0 s ii1 #0 g uan1 #3 ， w en4 #0 w en4 #1 z uei4 #0 j in4 #1 s an1 #0 n ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180296.wav|25|sil g uo4 #0 b a2 #0 y in3 #0 d e5 #1 y an3 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180297.wav|25|sil d ong1 #0 x i1 #1 h u2 #0 q v1 #1 q i3 #0 y e4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180298.wav|25|sil y i1 #0 s an1 #2 s ii4 #3 ， s an1 #0 s an1 #1 q i1 #0 l iou4 #3 ， y i1 #0 s an1 #1 w u3 #0 q i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180300.wav|25|sil s uei2 #0 zh e2 #1 k e1 #0 j i4 #1 sh uei3 #0 p ing2 #0 d e5 #1 b u2 #0 d uan4 #1 t i2 #0 g ao1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180302.wav|25|sil n ai4 #0 d e2 #1 k e2 #0 y i3 #0 sh iii4 #1 w o3 #0 m en5 #0 d e5 #1 k e4 #0 h u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180303.wav|25|sil sh en2 #0 m e5 #1 sh iii4 #0 l e5 #1 y ao4 #1 j i4 #0 n ian4 #1 sh ei2 #0 y a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180305.wav|25|sil s ou1 #0 y i5 #0 s ou1 #2 p o1 #0 ch a2 #0 x iang1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180306.wav|25|sil n i3 #0 z ai4 #1 k an4 #0 w o3 #0 d e5 #1 sh ou2 #0 z ii3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180307.wav|25|sil j iou3 #0 l ong2 #1 ch uan2 #0 sh uo1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180308.wav|25|sil c uei4 #0 w ei1 #1 j v1 #0 d e5 #1 x iao3 #0 sh uo1 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180309.wav|25|sil q i2 #0 sh iii2 #1 b i3 #0 j iao4 #1 h ao3 #0 d e5 #1 sh iii2 #0 j ian1 #1 j iou4 #0 sh iii4 #1 sh iii2 #0 y i1 #0 d ian3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180310.wav|25|sil w u2 #1 l uen4 #1 sh iii4 #1 j i1 #0 j in1 #0 f a3 #1 x iou1 #0 d ing4 #1 g uo4 #0 ch eng2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180311.wav|25|sil zh iii1 #0 d ao4 #0 w o3 #1 w ei4 #0 sh en2 #0 m e5 #1 r ang4 #0 n i3 #1 t ing2 #0 ch e1 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180312.wav|25|sil s ou1 #0 y i4 #0 s ou1 #3 ， n i2 #0 h ao3 #3 ， z ai4 #0 j ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180313.wav|25|sil r u2 #0 g uo3 #1 t a1 #1 b u4 #0 n eng2 #1 t ong1 #0 g uo4 #1 j ian3 #0 ch a2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180314.wav|25|sil y i3 #0 p i2 #1 zh iii1 #0 d ao4 #1 h ai2 #0 zh iii4 #1 p i2 #0 sh en1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180315.wav|25|sil ai4 #0 x in1 #1 r en2 #0 sh iii4 #3 ， h u4 #0 s ong4 #1 sh ao1 #0 sh ang1 #1 n v3 #0 y ing1 #1 l i2 #0 k ai1 #0 l e5 #0 j ia1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180316.wav|25|sil y ing1 #0 g ai1 #1 l ing4 #0 r en2 #1 x ing4 #0 f en4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180317.wav|25|sil b u4 #0 j ing1 #1 y vn2 #0 x v3 #2 j iou4 #0 b a3 #1 x iao1 #0 x i1 #1 w ai4 #0 ch uan4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180318.wav|25|sil j ie1 #0 zh e5 #1 t ang1 #0 m i3 #1 h uei4 #1 ch u1 #0 sh ou4 #3 ， h e2 #1 x iao3 #0 sh uo1 #1 x iang1 #0 g uan1 #0 d e5 #1 w u4 #0 p in3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180320.wav|25|sil y i1 #0 s an1 #0 s ii4 #1 w u3 #3 ， q i1 #0 l ing2 #1 s ii4 #0 j iou2 #1 w u3 #0 y i1 #0 q i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180322.wav|25|sil r uei4 #0 d ian3 #0 d e5 #1 ch eng2 #0 zh en4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180323.wav|25|sil z uei4 #0 x in4 #0 d e5 #3 ， n a4 #0 zh ang1 #1 zh uan1 #0 j i2 #1 h en3 #0 l a1 #0 j i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180325.wav|25|sil d an4 #0 sh iii4 #1 t a1 #1 k en3 #0 d ing4 #1 h an2 #1 c an1 #0 y v3 #0 l e5 #1 b u4 #0 sh ao3 #1 q i2 #0 t a1 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180327.wav|25|sil l iou4 #0 sh iii2 #1 q ian1 #0 k e4 #1 x in1 #0 r en2 #1 w ang2 #1 t iao3 #0 zh an4 #0 s ai4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180328.wav|25|sil x i1 #0 w ang4 #0 z ai4 #2 f a3 #0 l v4 #1 x iou1 #0 d ing4 #0 d e5 #1 t ong2 #0 sh iii2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180330.wav|25|sil zh en1 #0 sh iii4 #1 sh u3 #0 y v2 #1 n ei4 #0 zh ong3 #2 t ong2 #0 g an1 #0 g ong4 #1 k u3 #0 x ing2 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180331.wav|25|sil j ia1 #0 l e4 #0 f u2 #3 ， zh ang1 #0 j iang1 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180332.wav|25|sil s ou1 #0 y i5 #0 s ou1 #3 ， z uei4 #0 e4 #0 g an3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180333.wav|25|sil x in1 #0 z eng4 #0 d e5 #1 j ing2 #0 d ian3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180335.wav|25|sil zh iii4 #0 n eng2 #1 d ian4 #0 z ii5 #1 sh e4 #0 b ei4 #1 s uo3 #2 j v4 #0 y ou3 #0 d e5 #1 n eng2 #0 l i4 #1 y e3 #1 y ve4 #0 l ai2 #0 y ve4 #1 f eng1 #0 f u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180336.wav|25|sil n i3 #0 n eng2 #1 an1 #0 j ing4 #1 y i2 #0 h uei4 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180337.wav|25|sil j ie1 #0 y ang2 #0 sh iii4 #0 d e5 #1 j ian4 #0 zh u2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180338.wav|25|sil k a3 #0 r uei4 #0 n a4 #1 b ei4 #0 y ao3 #0 l e5 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180339.wav|25|sil y ing1 #0 g uo2 #0 m a3 #1 sh iii4 #1 s ii4 #0 sh iii2 #0 l iou4 #1 m a3 #0 b an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180340.wav|25|sil p u3 #0 zh eng4 #1 zh e2 #0 d ian4 #0 sh iii4 #0 j v4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180341.wav|25|sil n a4 #0 sh iii4 #1 y i2 #0 g e4 #1 x in4 #0 h ao4 #1 h uo4 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180342.wav|25|sil s ou1 #0 y i4 #0 s ou1 #1 zh iii3 #0 sh iii4 #1 w ang4 #0 j i4 #0 l e5 #1 h uei2 #0 j ia1 #0 d e5 #0 l u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180344.wav|25|sil n i3 #1 g en1 #0 zh ong1 #0 r en2 #0 d e5 #1 j i4 #0 sh u4 #1 t ai4 #0 ch a4 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180346.wav|25|sil y i1 #1 s an1 #0 b a1 #1 y i1 #1 w u3 #0 l iou4 #1 l iou4 #3 ， y i1 #0 w u2 #1 w u3 #0 s ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180347.wav|25|sil j in1 #0 r ong2 #1 t ou2 #0 z ii1 #1 h ang2 #0 y e4 #3 ， t uei4 #0 j v1 #3 ， d i4 #0 s ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180348.wav|25|sil w o2 #1 y i3 #0 w ei2 #1 l u3 #0 k a1 #0 s ii1 #1 ch eng4 #0 b u2 #0 x ia4 #0 q v4 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180349.wav|25|sil h uang2 #0 y in2 #1 zh ong1 #0 ch eng2 #0 y ao4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180350.wav|25|sil s ou1 #0 y i1 #0 s ou1 #1 x ing4 #0 f u2 #2 j i2 #0 x iang2 #0 n ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180351.wav|25|sil n i2 #0 j i3 #0 j ing1 #1 m ei2 #0 y ou3 #1 sh en2 #0 m e5 #1 r ang4 #0 w o2 #1 c ai1 #0 x iang3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180352.wav|25|sil q ing2 #0 j ing3 #0 j v4 #3 ， h an2 #0 j v4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180353.wav|25|sil t a1 #0 sh uo1 #1 m ing2 #0 t ian1 #1 t a1 #0 m en5 #1 j iou4 #0 y ao4 #1 k ai1 #0 p ai1 #1 y i2 #0 b u4 #0 j iao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180354.wav|25|sil y v2 #0 ch eng2 #0 q ing4 #1 ch uan1 #1 z ii3 #0 s e4 #1 x iang1 #0 j iao1 #2 y i1 #3 ， t iao2 #0 k ai3 #1 w ang2 #0 z ii3 #0 j iao4 #3 ， y v2 #0 l e4 #1 b ao4 #0 d ao3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180355.wav|25|sil r en2 #0 sh u4 #1 zh an4 #3 ， b i3 #1 c ong2 #1 q v4 #0 n ian2 #0 d e5 #1 b ai3 #0 f en1 #0 zh iii1 #1 l iou4 #0 sh iii2 #3 ， x ia4 #0 j iang4 #0 d ao4 #1 b ai3 #1 f en1 #2 zh iii1 #1 j iou2 #0 d ian3 #3 ， y i1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180356.wav|25|sil w o3 #1 zh iii1 #0 d ao4 #1 z ii4 #0 j i3 #1 ch u1 #0 q v4 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180357.wav|25|sil n uo4 #0 j i2 #0 y a4 #1 d ian4 #0 q i4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180358.wav|25|sil j ie2 #0 s en1 #1 sh iii4 #0 g e4 #1 h en2 #0 h ao3 #0 d e5 #0 r en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180359.wav|25|sil t u2 #0 l u3 #0 f an1 #0 d e5 #1 zh iii2 #0 w u4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180360.wav|25|sil s ou1 #1 y i5 #0 s ou1 #3 ， j vn1 #1 l in2 #2 t ian1 #0 x ia4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180361.wav|25|sil j iao4 #0 w o3 #1 zh an1 #0 m u3 #0 sh iii1 #1 j iou4 #0 x ing2 #0 n e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180362.wav|25|sil zh ong4 #0 y ao4 #0 d e5 #1 sh iii4 #1 w o3 #0 m en5 #1 l iang3 #0 g e4 #3 ， d uei4 #1 y i4 #0 q vn2 #0 r en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180363.wav|25|sil er2 #1 k e1 #0 l in2 #1 h ao3 #0 x iang4 #1 g en1 #0 b en3 #1 m ei2 #1 g an3 #0 j ve2 #0 d ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180364.wav|25|sil zh uen3 #0 b ei4 #1 q ian2 #0 w ang2 #1 b ei3 #0 j ing1 #3 ， zh iii4 #0 l iao2 #1 b a1 #0 g e4 #0 y ve4 #1 d a4 #0 d e5 #1 n v3 #0 y ing1 #1 x iao3 #0 x iou4 #0 l ing2 #3 ， b u2 #0 sh en4 #3 ， d iao4 #0 r u4 #1 h uo3 #0 k eng1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180366.wav|25|sil d an4 #1 zh e4 #0 sh iii4 #1 y i2 #0 g e4 #1 d uei4 #0 w o3 #1 z ang4 #0 f u1 #1 er2 #0 y an2 #1 h en3 #1 zh ong4 #0 y ao4 #0 d e5 #1 sh iii2 #0 k e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180367.wav|25|sil y i1 #0 s an1 #0 q i1 #0 s an1 #3 ， q i1 #0 l ing2 #1 w u3 #3 ， er4 #1 w u3 #1 q i1 #0 j iou3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180368.wav|25|sil b u4 #0 g ai1 #0 zh u1 #3 ， ch e1 #0 k u4 #0 l i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180369.wav|25|sil b ai3 #0 n i4 #0 er2 #1 b u2 #0 sh iii4 #1 w o2 #0 x iang3 #0 d e5 #1 n ei4 #0 y ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180370.wav|25|sil t ong1 #0 zh ou1 #0 q v1 #0 d e5 #1 x iao3 #0 x ve2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180371.wav|25|sil ch iii2 #0 x v4 #0 d e5 #1 sh iii2 #0 j ian1 #1 d ou1 #1 b u4 #0 ch ang2 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180372.wav|25|sil s eng1 #0 m ing4 #0 d e5 #1 y i4 #0 y i4 #2 z ai4 #0 y v2 #1 an4 #0 z ao4 #1 s ang4 #0 d i4 #0 d e5 #2 z ii3 #0 y i4 #1 x ing2 #0 s ii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180373.wav|25|sil y e3 #0 b ei4 #1 y i4 #0 x ie1 #3 ， y e4 #1 n ei4 #1 r en2 #0 sh iii4 #1 s uo3 #2 z ii4 #0 y i2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180374.wav|25|sil zh ang1 #0 ai4 #0 j ia1 #1 zh uan1 #0 j i2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180375.wav|25|sil d eng4 #0 z ii3 #0 q i2 #2 d a3 #1 t ai2 #0 q iou2 #3 ， q iao4 #0 t uen2 #1 p a1 #0 zh uo1 #3 ， y v2 #0 l e4 #1 p in2 #0 d ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180376.wav|25|sil n a4 #0 n i3 #0 d e5 #1 sh en1 #0 t i3 #1 w ei4 #0 sh en2 #0 m e5 #1 w ai1 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180377.wav|25|sil j ie2 #0 x i1 #3 ， ai1 #0 s en1 #0 b o2 #0 g e2 #2 ch u1 #0 y an3 #0 d e5 #1 d ian4 #0 sh iii4 #0 j v4 #3 ， y ou3 #0 sh en2 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180378.wav|25|sil w o3 #1 sh iii1 #0 b ai4 #0 l e5 #3 ， l uo3 #0 k a1 #0 s ii1 #0 t ong4 #1 k u3 #0 zh e5 #0 sh uo1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180379.wav|25|sil n a4 #0 w o3 #1 n eng2 #1 z en3 #0 m e5 #0 b an4 #0 n e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180380.wav|25|sil sh iii4 #0 w o3 #0 z ai4 #1 y i4 #0 x iang3 #3 ， l u2 #0 k a1 #0 s ii1 #1 d uei4 #0 n i2 #0 y ou3 #1 d uo2 #0 zh ong4 #0 y ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180382.wav|25|sil n i3 #1 w ei4 #0 sh en2 #0 m e5 #1 j iou4 #1 b u4 #0 n eng2 #1 z uen1 #0 sh ou3 #0 x ia4 #1 j ian3 #0 d an1 #0 d e5 #1 g uei1 #0 j v4 #0 n e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180383.wav|25|sil l ong2 #0 b en1 #1 g e1 #0 q v3 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180385.wav|25|sil sh e4 #0 h uei4 #1 x ve2 #0 sh u1 #0 j i2 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180386.wav|25|sil d an4 #0 sh iii4 #3 ， z ai4 #0 y i4 #0 x ie1 #1 f a1 #0 d a2 #1 j ing1 #0 j i4 #0 t i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180387.wav|25|sil t ong2 #0 sh u2 #1 w an4 #0 d a2 #1 j i2 #0 t uan2 #0 q i2 #0 x ia4 #0 d e5 #1 w an4 #0 d a2 #1 y van4 #0 x ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180388.wav|25|sil ch eng2 #0 h uang2 #0 m iao4 #1 x iao3 #0 ch iii1 #3 ， y i2 #0 n an2 #0 d ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180389.wav|25|sil d ian4 #0 j i1 #1 d ian4 #0 q i4 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180390.wav|25|sil x iang3 #1 q ing2 #0 w o3 #1 ch iii1 #1 f an4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180391.wav|25|sil y i1 #0 s an1 #0 s an1 #3 ， w u2 #1 j iou3 #0 l iou4 #1 b a1 #2 s ii4 #1 b a1 #0 er4 #0 er4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180392.wav|25|sil j in1 #0 r iii4 #1 zh eng4 #0 sh iii4 #1 s uo3 #0 d ing4 #0 l e5 #1 sh ang4 #0 y ing4 #1 r iii4 #0 q i1 #3 ， er4 #0 l ing2 #3 ， y i1 #0 s ii4 #0 n ian2 #3 ， sh iii2 #2 er4 #0 y ve4 #3 ， er4 #0 sh iii2 #0 w u3 #0 r iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180393.wav|25|sil d an4 #0 q ian2 #3 ， w u3 #0 sh iii2 #0 m ing2 #1 y i1 #0 y ao4 #3 ， f u4 #1 h ao2 #0 d e5 #2 z ong3 #0 c ai2 #0 f u4 #2 j i4 #0 b i3 #1 q v4 #0 l ian2 #3 ， z eng1 #0 d ang2 #1 b ai3 #1 f en1 #0 zh iii1 #1 er4 #0 sh iii2 #0 s an1 #1 z ii1 #0 h ou4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180394.wav|25|sil l iou3 #0 s an4 #1 c u1 #0 y an3 #0 d e5 #1 d ian4 #0 y ing3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180395.wav|25|sil sh ou3 #0 x iang4 #1 m ing2 #0 b ai2 #0 d e5 #1 an4 #0 sh iii4 #3 ， f o2 #0 l uo2 #0 l a1 #1 d a3 #0 s uan4 #1 t i2 #0 g ao1 #1 sh uei4 #0 e2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180396.wav|25|sil b i3 #0 x ia4 #1 r en2 #0 w u4 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180397.wav|25|sil s ou1 #0 y i4 #0 s ou1 #1 q ian1 #0 q ian1 #0 j ve2 #0 g e1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180398.wav|25|sil l ing4 #0 w ai4 #1 s ii4 #0 r en2 #1 sh iii1 #0 j iou4 #0 sh iii2 #1 y e3 #3 ， z ao1 #0 y v4 #1 b u2 #2 c e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180399.wav|25|sil m iao1 #0 x ing1 #0 r en2 #0 d e5 #1 y ou2 #0 x i4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180400.wav|25|sil x in1 #0 t ian1 #0 d i4 #1 sh iii2 #0 sh ang4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180401.wav|25|sil w ei4 #0 l e5 #1 y i2 #0 y i4 #1 m ei3 #0 y van2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180404.wav|25|sil w ang2 #0 y ou2 #1 t u4 #0 c ao2 #0 d ao4 #3 ， ch iii1 #0 g en1 #0 x iang1 #1 j iao1 #0 y a1 #1 y a1 #0 j ing1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180406.wav|25|sil j in1 #0 t ian1 #1 w o3 #0 m en5 #0 d e5 #1 ch eng2 #0 sh iii4 #1 n a2 #0 l i2 #1 y ou3 #0 w en4 #0 t i2 #0 n e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180407.wav|25|sil w o3 #0 d e5 #1 er2 #0 z ii5 #0 sh uo1 #3 ， t a1 #0 h ai2 #1 b u4 #0 zh uen3 #0 b ei4 #1 j ie2 #0 h uen1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180408.wav|25|sil n i3 #0 n eng2 #1 g ei2 #0 w o3 #1 g eng4 #0 d uo1 #1 sh iii2 #0 j ian1 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180409.wav|25|sil x iang3 #1 k an4 #0 k an4 #1 t ie3 #0 y i4 #0 b an1 #0 d e5 #1 zh eng4 #0 j v4 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180410.wav|25|sil y ang2 #0 q v3 #0 x ian4 #0 d e5 #1 x iang1 #0 zh en4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180411.wav|25|sil m ei2 #0 t an4 #1 q i3 #0 y e4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180412.wav|25|sil w o3 #0 c ai1 #2 n a4 #0 j iou4 #0 sh iii4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180414.wav|25|sil ch eng2 #0 p in3 #1 z ai4 #0 s ong4 #0 h uei2 #1 zh e4 #0 l i3 #1 zh eng2 #0 l i2 #1 d a3 #0 b ao1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180415.wav|25|sil y i1 #0 s an1 #0 l ing2 #1 b a1 #0 q i1 #3 ， j iou3 #1 s ii4 #1 q i1 #1 b a1 #0 b a1 #0 s an1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180416.wav|25|sil w en2 #0 g uan1 #0 d e5 #1 sh iii1 #0 c ii2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180417.wav|25|sil b ang4 #0 b u4 #0 sh iii4 #0 d e5 #1 j i1 #0 g ou4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180418.wav|25|sil s ou1 #0 y i1 #0 s ou1 #3 ， l ao3 #2 p o2 #1 z uei4 #0 d a4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180419.wav|25|sil k e2 #0 y i3 #1 sh uo1 #0 j v4 #0 h ua4 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180421.wav|25|sil g uan1 #0 d ong1 #0 d a4 #1 x ian1 #0 sh eng1 #1 y an3 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180424.wav|25|sil x iong1 #0 d i4 #1 h uei4 #3 ， j iou4 #1 zh uei1 #0 z ong1 #1 b u2 #0 d ao4 #1 t a1 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180425.wav|25|sil w o3 #0 d e5 #1 q i1 #0 z ii3 #1 n eng2 #1 h uei2 #0 f u4 #1 zh eng4 #0 ch ang2 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180426.wav|25|sil m in3 #0 x ing2 #1 t i3 #0 y v4 #1 g ong1 #0 y van2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180427.wav|25|sil r en2 #0 m en5 #1 j v4 #0 z ai4 #1 y i4 #0 q i2 #3 ， t ao3 #0 l uen4 #1 r iii4 #0 ch ang2 #1 sh iii4 #0 w u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180429.wav|25|sil y i1 #0 s an1 #0 q i1 #3 ， s an1 #0 l ing2 #1 e4 #3 ， y i1 #1 w u3 #1 y i1 #1 b a1 #0 b a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180430.wav|25|sil s ou1 #0 y i1 #0 s ou1 #3 ， y a1 #0 l i2 #0 d a4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180431.wav|25|sil s ou1 #0 y i1 #0 s ou1 #2 s eng1 #1 l ai2 #1 p ang2 #0 h uang2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180432.wav|25|sil w en2 #0 h ua4 #1 y v2 #0 l e4 #1 h ang3 #0 y e4 #1 ch eng2 #0 w ei2 #1 x v3 #0 d uo1 #1 f u4 #0 h ao2 #1 t ou2 #0 z ii1 #0 d e5 #1 x in1 #0 l ing3 #0 y v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180433.wav|25|sil l iou2 #0 w en2 #0 zh iii4 #1 ch u1 #0 y an3 #0 d e5 #1 d ian4 #0 y ing2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180434.wav|25|sil s ou1 #0 y i4 #0 s ou1 #3 ， n a4 #0 l ian2 #1 x ia4 #0 t ian1 #1 w o3 #1 x ve2 #0 h uei4 #0 l e5 #1 z ai4 #1 b ei4 #0 z ii5 #0 l i3 #2 b ao4 #0 j in3 #1 z ii4 #0 j i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180435.wav|25|sil m ei3 #0 g uo2 #1 z uei1 #0 j i1 #0 sh ou3 #1 z ai4 #1 sh eng4 #0 d an4 #0 j ie2 #1 d ang4 #0 t ian1 #1 zh iii3 #0 sh iii4 #1 x iao3 #0 f an4 #0 w ei2 #1 sh ang4 #0 y ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180437.wav|25|sil w o2 #0 x iang2 #1 zh ao3 #0 ch u1 #1 sh uei2 #1 d ing1 #0 zh e5 #0 w o3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180438.wav|25|sil k e1 #0 n in2 #1 y i2 #0 d ing4 #1 b u2 #0 t ai4 #1 r en4 #0 sh iii2 #0 t a1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180439.wav|25|sil w o3 #0 m en5 #1 b u2 #0 h uei4 #0 q v4 #2 p u3 #0 l a1 #1 t e4 #0 s ii1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180441.wav|25|sil y ve1 #0 h an4 #1 zh iii1 #0 d ao4 #1 l e5 #0 d e5 #1 sh iii2 #0 h ou4 #1 n i3 #0 d uo1 #0 d a4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180442.wav|25|sil s ou1 #0 y i1 #0 s ou1 #2 l ian2 #0 h ua1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180443.wav|25|sil s ou1 #1 y i1 #0 s ou1 #2 w u2 #1 z ii4 #0 b ei1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180444.wav|25|sil y i1 #0 s an1 #0 l iou4 #3 ， l ing2 #0 j iou3 #1 l iou4 #1 l ing2 #0 l ing2 #3 ， b a1 #0 y i1 #0 er4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180445.wav|25|sil w o3 #1 q in1 #0 s en1 #1 t i3 #0 h uei4 #1 d ao4 #0 l e5 #3 ， c ai4 #0 y van2 #1 g ao1 #0 e2 #0 d e5 #1 q ian2 #0 q i1 #1 c eng2 #0 b en3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180446.wav|25|sil m a3 #0 y vn2 #1 d ai4 #0 t i4 #1 l iou2 #0 y ong2 #0 h ao3 #1 c eng2 #0 w ei2 #1 j in1 #0 r ong2 #1 t ou2 #0 z ii1 #1 h ang2 #0 y e4 #1 sh ou3 #0 f u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180447.wav|25|sil j iao1 #0 zh ou1 #0 d e5 #1 x iang1 #0 zh en4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180448.wav|25|sil r u2 #0 g uo3 #1 y i4 #0 f ang1 #1 y ou3 #0 l e5 #1 m a2 #1 f an2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180449.wav|25|sil y v2 #0 ch eng2 #0 q ing4 #1 sh ai4 #0 ch u1 #1 x in1 #0 zh ao4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180450.wav|25|sil t a1 #0 m en5 #0 sh uo1 #1 y ao4 #0 zh ou2 #1 j i3 #0 g e4 #0 y ve4 #0 d e5 #1 f a3 #0 l v4 #1 sh ou3 #0 x v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180451.wav|25|sil ch ang2 #0 sh iii2 #0 l ei3 #1 g e1 #0 q v3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180452.wav|25|sil n a4 #0 h ai2 #1 h ao3 #3 ， h uai2 #0 e2 #1 m ing2 #0 zh ou1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180453.wav|25|sil d a4 #1 k ua4 #0 d u4 #3 ， g ang1 #0 j ie2 #0 g ou4 #1 sh iii1 #0 g ong1 #1 j i4 #0 sh u4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180455.wav|25|sil w o3 #1 j ian4 #0 g uo4 #1 n i3 #1 zh e4 #0 zh ong3 #0 r en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180456.wav|25|sil f ang4 #0 k ai1 #1 g uan3 #0 zh iii4 #1 b en3 #0 sh en1 #1 b ing4 #1 m ei2 #0 y ou3 #1 w en4 #1 t i2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180457.wav|25|sil n eng2 #0 g ou4 #1 k an4 #0 d ao4 #1 k e3 #0 x ing2 #0 x ing4 #0 d e5 #3 ， j v4 #0 y ou3 #3 ， sh iii2 #0 j i4 #1 j ian1 #0 g uan3 #1 x iao4 #0 y ing4 #0 d e5 #2 p ei4 #0 t ao4 #2 g uei1 #0 z e2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180458.wav|25|sil s ou1 #0 y i1 #0 s ou1 #3 ， y v4 #0 j ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180459.wav|25|sil zh ong4 #0 l in2 #1 sh u1 #0 j i2 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180460.wav|25|sil m o4 #0 l i4 #1 sh iii4 #1 b ang1 #0 zh e5 #1 y ang3 #0 d a4 #0 l e5 #0 n i3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180461.wav|25|sil q i2 #1 g u3 #0 j ia4 #1 y i3 #1 d ie1 #0 zh iii4 #3 ， y i4 #0 b ai3 #1 s ii4 #0 sh iii2 #0 y i1 #0 y van2 #0 g u2 #1 y i3 #0 x ia4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180463.wav|25|sil g ao1 #0 x iao3 #0 s ong1 #1 d ao2 #0 y an3 #0 d e5 #1 d ian4 #0 y ing3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180464.wav|25|sil s ou1 #1 y i4 #0 s ou1 #1 l ao3 #1 d i4 #0 f ang1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180465.wav|25|sil sh iii2 #0 j ing3 #0 sh an1 #0 q v1 #0 d e5 #1 q i3 #0 y e4 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180466.wav|25|sil m ei3 #0 t uan2 #1 y v3 #2 d a4 #0 zh ong4 #1 d ian3 #0 p ing2 #0 d e5 #1 h e2 #0 p ing4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180469.wav|25|sil y van2 #0 d ai4 #1 g uan1 #0 y van2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180470.wav|25|sil y i1 #0 x ve2 #0 l ei4 #1 d a4 #0 x ve2 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180471.wav|25|sil sh ang4 #0 h ai3 #3 ， ch eng2 #0 h uang2 #0 m iao4 #3 ， n an2 #0 m en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180473.wav|25|sil d i4 #0 z ii4 #1 b o2 #0 w u4 #0 g uan3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180474.wav|25|sil d i4 #0 er4 #1 w o3 #0 m en5 #1 l i4 #0 y ong4 #1 zh e4 #3 ， x ie1 #1 d ao4 #0 l i3 #1 q v4 #0 zh iii4 #0 z uo4 #1 x ia4 #0 y i2 #0 g e4 #1 j i4 #0 h ua4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180475.wav|25|sil w o3 #0 m en1 #1 d ei3 #0 c ong2 #1 j ie1 #0 d ao4 #0 sh ang4 #1 x i1 #0 x i1 #0 r ang2 #0 r ang3 #0 d e5 #1 r en2 #0 q vn2 #0 zh ong1 #1 j i3 #0 g uo4 #0 q v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180476.wav|25|sil y ou3 #0 r u2 #1 j in1 #0 zh ong1 #1 j ia1 #0 sh en1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180477.wav|25|sil zh ao4 #0 p ian4 #0 zh ong1 #3 ， t a1 #1 ch uan1 #0 zh e5 #3 ， z ii3 #0 s e4 #1 x iang1 #0 j iao1 #3 ， t u2 #0 an4 #0 d e5 #1 d an1 #0 ch e1 #0 f u2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180478.wav|25|sil w o2 #0 x iang3 #0 sh iii4 #1 sh an1 #0 m u3 #1 d ai4 #1 w o3 #0 m en5 #1 q v4 #0 b a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180479.wav|25|sil j iou3 #0 j v2 #1 x ia4 #0 er4 #1 ch u1 #0 j v2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180480.wav|25|sil j ia4 #0 q i1 #1 y ao4 #1 w ai4 #0 ch u1 #0 m a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180481.wav|25|sil b en3 #0 b ao4 #0 x vn4 #3 ， sh iii2 #0 x i2 #0 sh eng1 #3 ， s uen1 #0 x iao4 #0 t ian1 #3 ， z uo2 #0 t ian1 #1 x ia4 #0 w u3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180482.wav|25|sil s u4 #0 g en1 #1 h ua1 #0 h uei4 #3 ， zh iii2 #0 w u4 #1 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180483.wav|25|sil d ong1 #0 t an1 #1 sh iii1 #0 d i4 #1 g ong1 #0 y van2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180484.wav|25|sil d an4 #0 sh iii4 #1 w o3 #0 q ve4 #1 k an4 #0 b u4 #1 ch u1 #0 l ai2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180485.wav|25|sil s ou1 #0 y i1 #0 s ou1 #3 ， n i3 #0 s ii4 #1 d uei4 #0 d e5 #0 r en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180486.wav|25|sil t a1 #0 m en5 #1 w a2 #0 c uo4 #1 d i4 #0 f ang1 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180487.wav|25|sil zh e4 #0 sh iii4 #0 sh ang4 #3 ， z uei4 #0 b u2 #0 h uei4 #1 d uei4 #0 n i3 #1 zh iii2 #0 sh ou3 #1 h ua4 #0 j iao3 #0 d e5 #2 j iou4 #0 sh iii4 #1 w o3 #0 m en2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180488.wav|25|sil h ai2 #0 sh iii4 #1 c ii3 #0 h ou4 #0 d e5 #1 sh u4 #0 c ii4 #1 b u4 #0 g ong1 #0 k ai1 #1 zh eng1 #0 q iou2 #1 y i4 #0 j ian4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180489.wav|25|sil z e4 #0 j iang1 #1 f eng1 #0 f u4 #1 g ong1 #0 s ii1 #0 d e5 #1 r ong2 #0 z ii1 #1 g ong1 #0 j v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180490.wav|25|sil s u1 #0 b ing3 #1 t ian1 #3 ， c eng2 #3 ， sh ou3 #0 g e4 #1 ch uang3 #0 j in4 #3 ， sh iii4 #0 j in3 #1 s ai4 #3 ， b ai2 #0 m i3 #1 j ve2 #0 s ai4 #3 ， y a4 #0 zh ou1 #0 r en2 #1 s ou1 #0 h u2 #1 t i3 #0 y v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180491.wav|25|sil l i4 #0 zh iii4 #1 d ian4 #0 sh iii4 #0 j v4 #2 y ou2 #0 sh en3 #0 m e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180492.wav|25|sil j iou3 #0 g e4 #1 j vn4 #0 n an2 #1 n v3 #0 m ei4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180494.wav|25|sil s ou1 #0 y i4 #0 s ou1 #2 c ong1 #0 c ong1 #1 n a4 #0 n ian2 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180495.wav|25|sil t a1 #1 ch u1 #0 x ian4 #0 z ai4 #1 j ian1 #0 k ong4 #0 l i3 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180496.wav|25|sil n i3 #0 d e5 #1 p eng2 #0 y ou3 #1 sh iii1 #0 b ai4 #0 l e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180497.wav|25|sil d an4 #1 sh ang4 #0 b ang3 #0 r en2 #0 sh u4 #1 r eng2 #0 r an2 #0 sh iii4 #1 z eng1 #0 j ia1 #0 d e5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180499.wav|25|sil y i1 #0 s an1 #0 j iou3 #1 b a1 #2 w u2 #1 w u3 #0 s ii4 #1 s an1 #0 q i1 #1 s an1 #0 l iou4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180500.wav|25|sil n a4 #1 x iao3 #0 n v2 #0 z u3 #3 ， z en1 #0 s ii4 #1 t ai4 #1 g an3 #0 x ie4 #1 n i3 #0 l a5 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180501.wav|25|sil j in1 #0 n ian2 #1 y ou4 #1 z eng1 #0 zh ang3 #0 l e5 #1 b ai3 #1 f en1 #0 zh iii1 #1 w u3 #0 sh iii2 #0 b a1 #0 d ian3 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180504.wav|25|sil w o2 #0 x iang3 #1 h uei2 #0 d ao4 #1 n i3 #0 m ian4 #0 q v4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180505.wav|25|sil y ou2 #0 n i2 #0 s ii1 #0 sh uo1 #1 y ou2 #0 n i2 #0 s ii1 #1 b u4 #0 x iang3 #0 ch iii1 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180506.wav|25|sil w o2 #1 y i3 #0 w ei2 #1 g ong1 #0 y van2 #1 j iou4 #0 sh iii4 #1 r en2 #0 m en5 #1 z ai4 #1 s en1 #0 y e4 #4 。 eos
+/data/liuhuang/aishell3/train/wav/SSB0018/audio/00180507.wav|25|sil zh ou1 #0 t ian1 #0 w en2 #1 d ian4 #0 y ing3 #3 ， y ou2 #0 sh en3 #0 m e5 #4 。 eos
