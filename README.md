@@ -1,7 +1,7 @@
 # Megatts2_HierSpeechpp
-This project need download some model resoucres and prepare train datasets... 
-The train pipeline needs to be linked together by yourself, and code not clean...
-To avoid copyright risks. some code implementations may have problems and have not been carefully checked...
+- This project need download some model resoucres and prepare train datasets... 
+- The train pipeline needs to be linked together by yourself, and code not clean...
+- To avoid some risks, some code implementations changed and not have been carefully checked, may have problems...
 
 * Acoustic model use megatts2
 * Vocoder use HierSpeechpp: https://github.com/sh-lee-prml/HierSpeechpp
@@ -10,8 +10,8 @@ To avoid copyright risks. some code implementations may have problems and have n
 * For inference process: (text, spk_mel) -> megatts2 ->> (wav2vec, f0) -> HierSpeechpp ->> wav
 
 ## Model resource 
-Download HierSpeechpp's hierspeechpp_eng_kor, hierspeechpp_libritts960 and ttv_libritts_v1 to this dir.
-Download facebook/wav2vec2-xls-r-300m.
+- Download HierSpeechpp's hierspeechpp_eng_kor, hierspeechpp_libritts960 and ttv_libritts_v1 to this dir.
+- Download facebook/wav2vec2-xls-r-300m.
 
 ## Dataset prepare
 * Features
@@ -39,6 +39,6 @@ Download facebook/wav2vec2-xls-r-300m.
 CUDA_VISIBLE_DEVICES="2,3" python train_ms.py -c configs/config.json -m exp
 
 # exp_current train_s1, train GPT, not use GPT-SoVITS's AR modules model;
-# and to avoid copyright risks, we use github_megatts2's GPT model, code implementation is not carefully checked...
+# and to avoid some risks, we use github_megatts2's GPT model, code implementation is not carefully checked...
 CUDA_VISIBLE_DEVICES="2,3" python train_ms_s1.py -c configs/config.json -m exp
 ```
