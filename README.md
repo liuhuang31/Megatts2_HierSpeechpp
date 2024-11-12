@@ -42,3 +42,8 @@ CUDA_VISIBLE_DEVICES="2,3" python train_ms.py -c configs/config.json -m exp
 # and to avoid some risks, we use github_megatts2's GPT model, code implementation is not carefully checked...
 CUDA_VISIBLE_DEVICES="2,3" python train_ms_s1.py -c configs/config.json -m exp
 ```
+
+## More
+For HierSpeechpp's vocoder is heavy and not open source training code.<br/> You can use hiftnet as vocoder, it also need f0 to train the model. You can see https://github.com/yl4579/HiFTNet <br/>
+Also, if you want to wav/audio super-resolution 16/24 kHz to 48 kHz, go to https://github.com/liuhuang31/HiFTNet-sr
+* important: retrain HiFTNet or HiFTNet-sr, its feature need change to wav2vec.
