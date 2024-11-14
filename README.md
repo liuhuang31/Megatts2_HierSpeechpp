@@ -37,15 +37,16 @@
 ```bash
 # train s2_stage
 # for conv stride 8: in data_utils, dur mel w2v use 8 times
-CUDA_VISIBLE_DEVICES="2,3" python train_ms.py -c configs/config.json -m exp
+CUDA_VISIBLE_DEVICES="0" python train_ms.py -c configs/config.json -m exp
 
 # train s1_stage: config.json train_stage param set "s1_1".
 # train plm GPT, not use GPT-SoVITS's AR modules model;
 # and to avoid some risks, we use github_megatts2's GPT model, code implementation is not carefully checked...
-CUDA_VISIBLE_DEVICES="2,3" python train_ms_s1.py -c configs/config.json -m exp
+CUDA_VISIBLE_DEVICES="0" python train_ms_s1.py -c configs/config.json -m exp
 ```
 
 ## Inference
+The provide model need wait a month..., use [zhvoice](https://github.com/fighting41love/zhvoice), LibriTTS(100,360,500), VCTK, aishell3 and 200h_chinese(generated from the TTS interface, you see...).
 - Download the provided checkpoint to 'models' dir, or change the checkpoint path to your owns.
 ```bash
 python inference_plm.py
