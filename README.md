@@ -32,15 +32,23 @@
     * demo.dur.npy
 
 ## Train
+- 1. s2_stage: use train_ms.py train megatts(rvq), config.json train_stage param set "s1_1".
+- 2. s1_stage: use train_ms_s1.py train plm, config.json train_stage param set "s1_1"; s1_stage's exp_dir as s2_stage's to load RVQ related model checkpoint.
 ```bash
-# base exp_old, filter data; MaxPool1d.
-## config.json train_stage param: "s2" train rvq; "s1" train plm; "s1_1" train plm1;
+# train s2_stage
 # for conv stride 8: in data_utils, dur mel w2v use 8 times
 CUDA_VISIBLE_DEVICES="2,3" python train_ms.py -c configs/config.json -m exp
 
-# exp_current train_s1, train GPT, not use GPT-SoVITS's AR modules model;
+# train s1_stage: config.json train_stage param set "s1_1".
+# train plm GPT, not use GPT-SoVITS's AR modules model;
 # and to avoid some risks, we use github_megatts2's GPT model, code implementation is not carefully checked...
 CUDA_VISIBLE_DEVICES="2,3" python train_ms_s1.py -c configs/config.json -m exp
+```
+
+## Inference
+- Download the provided checkpoint to 'models' dir, or change the checkpoint path to your owns.
+```bash
+python inference_plm.py
 ```
 
 ## More
