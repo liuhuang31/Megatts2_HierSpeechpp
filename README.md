@@ -32,7 +32,7 @@
     * demo.dur.npy
 
 ## Train
-- 1. s2_stage: use train_ms.py train megatts(rvq), config.json train_stage param set "s1_1".
+- 1. s2_stage: use train_ms.py train megatts(rvq).
 - 2. s1_stage: use train_ms_s1.py train plm, config.json train_stage param set "s1_1"; s1_stage's exp_dir as s2_stage's to load RVQ related model checkpoint.
 ```bash
 # train s2_stage
