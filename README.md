@@ -46,7 +46,7 @@ CUDA_VISIBLE_DEVICES="0" python train_ms_s1.py -c configs/config.json -m exp
 ```
 
 ## Inference
-The provide model need wait a month..., use [zhvoice](https://github.com/fighting41love/zhvoice), LibriTTS(100,360,500), VCTK, aishell3 and 200h_chinese(generated from the TTS interface, you see...).
+The provide model checkpoint [Models](https://huggingface.co/liuhuang/Megatts2_HierSpeechpp), use [zhvoice](https://github.com/fighting41love/zhvoice), LibriTTS(100,360,500), VCTK, aishell3 and 200h_chinese(generated from the TTS interface...).
 - Download the provided checkpoint to 'models' dir, or change the checkpoint path to your owns.
 ```bash
 python inference_plm.py
